@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌞 Hi, I'm Rosalinda Yanos  
 
-<!--
-**ynsrsy/ynsrsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year student Bachelor of Science in Information Technology 
+💻 Passionate about *Web Development, IoT Projects, and Creative Writing*  
+🌱 Currently working on:  
+- *SolCal* ☀️ – A smart solar calculator web app  
+- *RFID + Bluetooth Door Lock System* 🔐 – Capstone project with solar backup  
+- *Harvest in the Ashes* 📖 – A transmigration novel with farming, trade, and survival themes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+- *Web Development*: HTML, CSS, JavaScript  
+- *Programming*: Java, Python, C++  
+- *IoT & Hardware*: Arduino, RFID, Bluetooth, Solar integration  
+- *Creative Work*: Canva design, Fiction writing  
+
+
+## 📫 Connect With Me
+- 📧 Email: yanos.rosa.18@gmail.com  
+- 🌐 Portfolio (coming soon...)  
+
+✨ "When the time is right, the Lord will make it happen." – Isaiah 60:22 ✨
