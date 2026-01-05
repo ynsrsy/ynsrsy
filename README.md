@@ -1,6 +1,6 @@
 # 🌞 Hi, I'm Rosalinda Yanos  
 
-🎓 4th Year student Bachelor of Science in Information Technology 
+🎓 Bachelor of Science in Information Technology Graduate
 💻 Passionate about *Web Development, IoT Projects, and Creative Writing*  
 🌱 Currently working on:  
 - *SolCal* ☀️ – A smart solar calculator web app  
